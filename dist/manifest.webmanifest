@@ -1,0 +1,16 @@
+{
+  "name": "Bambi · My Little Space",
+  "short_name": "Bambi",
+  "description": "A little space to speak, listen, connect and grow.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f9fd",
+  "theme_color": "#2255ee",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
